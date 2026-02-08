@@ -1,0 +1,10 @@
+{
+  "storyTitle": "Everyday Yokai Notes",
+  "storySubtitle": "A 219-part slice-of-life fantasy told through N3-focused mini-stories.",
+  "partsPath": "./parts",
+  "scan": {
+    "startId": 1,
+    "maxId": 3000,
+    "stopAfterConsecutiveMissing": 25
+  }
+}

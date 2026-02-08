@@ -1,0 +1,18 @@
+{
+  "id": 1,
+  "title": "Part 1 — 朝チャレンジ：アウト判定",
+  "targetGrammar": "ばいい",
+  "vocab": [
+    { "surface": "アウト", "reading": "アウト", "meaning": "out" },
+    { "surface": "アクセント", "reading": "アクセント", "meaning": "accent (in language), stress, highlight, accent" },
+    { "surface": "あくび", "reading": "あくび", "meaning": "yawn, yawning (and stretching), kanji 'yawning' radical (radical 76)" },
+    { "surface": "あちこち", "reading": "あちこち", "meaning": "here and there, all around, everywhere, throughout, all over, to get things in the wrong order (back to front), to become muddled up" },
+    { "surface": "あっ", "reading": "あっ", "meaning": "Ah! (expression of surprise, recollection, etc.), Oh!, Hey! (to get someone's attention)" },
+    { "surface": "あれこれ", "reading": "あれこれ", "meaning": "one thing or another, this and that, this or that, just on, around, about, nearly, roughly, almost, round about" },
+    { "surface": "アンテナ", "reading": "アンテナ", "meaning": "antenna, thing or method used to collect information or opinions" },
+    { "surface": "イコール", "reading": "イコール", "meaning": "equal, the equality sign (=), equals (A equals B)" },
+    { "surface": "孰れ", "reading": "いずれ", "meaning": "where, which, who, anyway, anyhow, at any rate, sooner or later, eventually, at some future date or time" },
+    { "surface": "いたずら", "reading": "いたずら", "meaning": "mischief, prank, trick, practical joke, pastime, hobby, playing with (a lighter, etc.), fooling around with, messing around with, amusing oneself with, tampering with" }
+  ],
+  "html": "朝、私は大きな<span class=\"w\"><ruby class=\"hv\">あくび<rt>あくび</rt></ruby></span>をして玄関を開けた。すると廊下の天井近くに、幽霊のユウがふわっと浮いていた。ユウはホワイトボードを持っていて、でかでかと書いてある。『本日の朝チャレンジ：ミス３回で<span class=\"w\"><ruby class=\"hv\">アウト<rt>アウト</rt></ruby></span>』\n私は思わず「何それ……」と言った。ユウはニヤッとして、ペンをカチカチ鳴らす。私が失敗するたびに印をつける気だ。\n\n私はとりあえず支度をしようとして、スマホを手に取った。通知を見ながら<span class=\"w\"><ruby class=\"hv\">あれこれ<rt>あれこれ</rt></ruby></span>考えていたら、歯みがき粉じゃなく洗顔フォームを口に入れそうになった。<span class=\"w\"><ruby class=\"hv\">あっ<rt>あっ</rt></ruby></span>！　ユウがすかさずボードに「×１」と書く。ひどい。\n私はムキになって「落ち着け<span class=\"tg\">ばいい</span>んでしょ」と言って、深呼吸した。失敗したなら直せ<span class=\"tg\">ばいい</span>。\n\n玄関を出て駅へ向かう途中、私は鍵がないことに気づいた。ポケットやカバンを<span class=\"w\"><ruby class=\"hv\">あちこち<rt>あちこち</rt></ruby></span>探す。見つからない。ユウは楽しそうに「×２」。\n私は立ち止まって考えた。鍵は“なくなった”んじゃない。どこかに置いたはずだ。焦るより、思い出せ<span class=\"tg\">ばいい</span>。\n\n駅前のコンビニでミオと合流した。ミオは語学が得意で、発音の<span class=\"w\"><ruby class=\"hv\">アクセント<rt>アクセント</rt></ruby></span>まで細かく気にするタイプだ。私が事情を話すと、ミオは即答した。「戻れ<span class=\"tg\">ばいい</span>。机の上じゃない？」\n私は「そんなはず……」と言いかけて、今朝の景色が頭に浮かんだ。机の上に、鍵。ほぼ確定。\n\n部屋に戻ると、鍵は机の上で堂々としていた。私は鍵をつかんで「よし！」と叫ぶ。ユウはボードを裏返して、今度は『＋１』と書いた。採点が雑すぎる。\n\n再び駅へ急ぐ道で、私はミオに聞いた。「なんでユウはこんなことするの？」\nミオは笑った。「点数を気にするより、行動すれ<span class=\"tg\">ばいい</span>よ。結果が<span class=\"w\"><ruby class=\"hv\">イコール<rt>イコール</rt></ruby></span>自分、って思い込みやすい人ほど、ゲームに見える形のほうが楽になれる」\n\nそのときユウが、私のカバンに小さな紙を貼った。『落ち着け』。また<span class=\"w\"><ruby class=\"hv\">いたずら<rt>いたずら</rt></ruby></span>だ。でも、今回はちょっと効く。\n私は笑って言った。「じゃあさ、ミス３回でアウトなら、セーフになる方法も作れ<span class=\"tg\">ばいい</span>じゃん」\nユウは一瞬きょとんとして、それからうれしそうにうなずいた。\n\n電車に乗って席に座ると、ミオが小声で言った。「<span class=\"w\"><ruby class=\"hv\">孰れ<rt>いずれ</rt></ruby></span>、そのチャレンジも終わるよ。ちゃんと自分のペースを覚えれ<span class=\"tg\">ばいい</span>」\n私はうなずいた。アウト判定があっても、笑いながら進め<span class=\"tg\">ばいい</span>。そんな朝なら、案外悪くない。"
+}
